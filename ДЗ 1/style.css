@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 20%;
+    margin: 10% 40% 0 40%;
+}
+h1{
+    text-shadow: 2px 3px 4px rgba(0,0,0,0.6);
+    text-align: center;
+    font-weight: bolder;
+}
+hr{
+    margin-bottom: 20px;
+}
+.f{
+    margin-bottom: 10px;
+}

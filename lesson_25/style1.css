@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left{
+    border: 1px solid black;
+    padding: 25px;
+    background-color: aquamarine;
+    float: left;
+    width: 20%;
+    height: 100vh;
+}
+.left p{
+    position:sticky;
+    top: 1px;
+}
+.right{
+    border: 1px solid black;
+    padding: 25px;
+    background-color: aquamarine;
+    float: right;
+    width: 70%;
+    height: 2000px;
+}

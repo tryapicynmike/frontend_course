@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 400px;
+    height: auto;
+    margin: 50px auto;
+    border: 1px solid black;
+    position: relative;
+    padding: 20px;
+    border-radius: 24px;
+}
+.main img{
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 24px;
+}
+.main .tag{
+    width: max-content;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 6px;
+}
+.main_content{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main_content h2{
+    margin-bottom: 20px;
+}
+.main_content p{
+    font-size: 18px;
+    font-weight: bold;
+}
+.main_content button{
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px 24px;
+    border-radius: 24px;
+    background-color: rgb(97,228,97);
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main_content  button:hover{
+    background-color: green;
+    color: #fff;
+}
+.tagg{
+    width: max-content;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 155px;
+    border-radius: 6px;
+    display: flex;
+    
+}
+.mackbuk{
+    position: relative;
+    bottom: 15px;
+    color: lightgrey;
+}
+.gfd{
+    position: relative;
+    left: 280px;
+    top: 45px;
+}
