@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: 'Roboto',sans-serif;
+    background-color:rgb(31, 43, 43);
+}
+.header{
+    background-color: rgb(28, 41, 41);
+    padding: 30px 0 20px   0px;
+    border-bottom:2px solid orange;
+}
+.header_wraper{
+    width: max-content;
+    margin: auto;
+}
+.d{
+    color: orange;
+    text-align: center;
+}
+.f{
+    color:white;
+    text-align: center;
+}
+.s{
+margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+}
+.s a{
+    text-decoration: none;
+    color: white;
+}
+.s a:hover{
+    color: orange;
+}
+.main_header{
+    margin: 0 20% 0 20%;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    display: flex;justify-content: center;align-items: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg, orange, aquamarine );
+}
+.image{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+.art{
+    color: orange;
+}
+.text{
+    color: #fff;
+    margin-bottom:30px;
+}
+.gdeg{
+    color: aqua;
+    margin-bottom: 10px;   
+}
+.ss{
+    display: flex;
+    gap: 40px;
+}
+.ss a{
+    background-color:rgb(56, 55, 55);
+    display: block;
+    color:orange;
+    text-decoration: none;
+}
+a :first-child{
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(2){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(3){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(4){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(5){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(6){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(7){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(8){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+a :nth-child(9){
+    box-shadow: 27px -19px 30px 0px rgba(34, 60, 80, 0.2);
+}
+

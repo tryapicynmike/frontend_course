@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding:0 15px;
+}
+.header{
+    color: orangered;
+    display: flex; gap:10px;
+    align-items: center;
+}
+.button{
+    background-color: red;
+    border: 1px solid red;
+    position: relative;
+    left: 1789px;
+    bottom: 10px;
+}
